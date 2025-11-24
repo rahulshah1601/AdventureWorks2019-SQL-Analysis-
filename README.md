@@ -32,4 +32,33 @@ It demonstrates strong SQL skills including joins, grouping, aggregation, and fi
 ---
 
 ## 📁 Project Structure
+AdventureWorks2019-SQL-Analysis/
+│
+├── Additional Assignment SQL.sql # All SQL queries included
+└── README.md # Project documentation
+
+---
+
+## 🔍 Key Insights
+- Identified high number of unsold products (inventory optimization opportunity)
+- Found departments with strong workforce distributions
+- Tracked customer sales behavior and revenue distribution
+- Explored hiring trends and employee compensation
+
+---
+
+## ✨ How to Use
+1. Download the SQL script file
+2. Import/attach AdventureWorks2019 database in SQL Server
+3. Run queries separately to explore results
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+### ⭐ If you like this project, consider giving it a star!
+
 
